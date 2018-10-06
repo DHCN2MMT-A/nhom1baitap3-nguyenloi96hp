@@ -1,0 +1,71 @@
+body{
+	background: rgb(78, 211, 211);
+	
+}
+nav ul li{
+	float: right;
+	
+	list-style-type: none;
+}
+h1 {
+	font-size: 40px;
+	color: blue;
+	clear: both;
+	margin-top: 10px;
+	text-align: center;
+}
+h2{
+	font-size: 35px;
+	text-align: center;
+	text-decoration: underline;
+	color: blue;
+}
+h3{
+	text-align: center;
+	color: blue;
+	font-size: 28px;
+	text-decoration: underline;
+}
+#Honours{
+	color: red;
+}
+
+img{
+	max-width:100% ;
+	margin: 0 auto; 
+	display: block; 
+	border-radius: 50%;
+}
+div p{
+	margin-left: 300px;
+	margin-right:300px;
+
+}
+.interesting{
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.interesting ol li{
+	font: 200 35px/0.7 'Great Vibes', Helvetica, sans-serif;
+	color: blue;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+.bright{
+	color: red;
+}
+div p.bright a.spl-linkb{
+	color: #ffff;
+	background: #ff7f24;
+	text-decoration: none;
+	border: 5px solid #ff7f24;
+	border-radius: 4%;
+
+}
+div p.bright a.spl-linka{
+	color: #ffff;
+	background: #6e6c6c;
+	text-decoration: none;
+	border: 5px solid #6e6c6c;
+	border-radius: 4%;
+
+}
